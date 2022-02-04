@@ -1,11 +1,12 @@
 ### Hi there I'm Olawale 👋
-Here is what I'm working on
-I am a dedicated and engaged pythonista that works with computer programs, technology and software to create and innovate products.
+
 
 <!--
 **Kashibrown/Kashibrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+Here is what I'm working on
+I am a dedicated and engaged pythonista that works with computer programs, technology and software to create and innovate products.
 
 - 🔭 I’m currently working on software development using python mostly for the backend.
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, PYTHON libraries.
