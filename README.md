@@ -1,5 +1,5 @@
 ### Hi there I'm Olawale 👋
-**Here is what I'm working on
+Here is what I'm working on
 I am a dedicated and engaged pythonista that works with computer programs, technology and software to create and innovate products.
 
 <!--
