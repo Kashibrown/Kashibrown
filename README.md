@@ -19,7 +19,7 @@ I am a dedicated and engaged pythonista that works with computer programs, techn
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am adventurous
 
--->
+
 
 #### Connect with me:
 
