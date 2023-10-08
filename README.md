@@ -8,13 +8,13 @@ Here are some ideas to get you started:
 
 -->
 Here is what I'm working on
-I am a dedicated and engaged pythonista that works with computer programs, technology and software to create and innovate products.
+I am a dedicated and engaged backend developer that works with computer programs, technology and software to create and innovate products.
 
-- 🔭 I’m currently working on software development using python mostly for the backend.
-- 🌱 I’m currently learning DJANGO FRAMEWORK WITH PYTHON.
+- 🔭 I’m currently working on software development using javascript mostly for the backend.
+- 🌱 I’m currently learning JAVASCRIPT WITH NODE JS, worked with DJANGO FRAMEWORK and python.
 - 👯 I’m looking to collaborate with teams of software developers.
-- 🤔 I’m looking for help with building more projects with python.
-- 💬 Ask me about anything related to python for now lol
+- 🤔 I’m looking for help with building more projects with javascripts.
+- 💬 Ask me about anything related to python and javascript for now lol
 - 📫 How to reach me: kashibrwn@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am adventurous
